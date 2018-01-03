@@ -1,0 +1,20 @@
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Form1.resources
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.GenerateResource.Cache
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.exe
+C:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.pdb
+c:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csprojResolveAssemblyReference.cache
+c:\Belgeler\Visual Studio 2017\Projects\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe.config
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csprojResolveAssemblyReference.cache
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Form1.resources
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.Properties.Resources.resources
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.GenerateResource.Cache
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.csproj.CoreCompileInputs.cache
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.exe
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\obj\Debug\Goruntuisleme.pdb
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe.config
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.exe
+C:\Users\yiğit\Downloads\Compressed\Goruntuisleme-20171018T220245Z-001\Goruntuisleme\Goruntuisleme\bin\Debug\Goruntuisleme.pdb
